@@ -17,6 +17,7 @@ This is a powerful and feature-rich React Admin Dashboard with charts, a calenda
 
 ## What you can do
 
-- Add or remove events in the Calendar
+- Add events in the Calendar by simply clicking on the timeslot you prefer
+- Remove events by simply clicking on the event you do not need anymore
 - Search for information on specific individuals and their locations within the dashboard
-- Add new tasks
+- Add new tasks for you or your team
